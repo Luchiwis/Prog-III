@@ -23,6 +23,8 @@ si a < b^k : O(n^k)
 si a = b^k : O(n^k * log(n))
 si a > b^k : O(n^(logb(a)))
 
+
+
 """
 
 print(exp2(2,14))
